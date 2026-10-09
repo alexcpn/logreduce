@@ -11,6 +11,8 @@ Works standalone as a CLI, or transparently inside **Claude Code**, **Codex**, *
 
 This project grew out of [aiops_logreduction](https://github.com/alexcpn/aiops_logreduction), an earlier experiment in suppressing periodically repeating logs and surfacing the rare ones with TF-IDF ranking and time-series fitting.
 
+Also available as part of Speckit Bug flow as a community edition https://speckit-community.github.io/extensions/logreduce
+
 ---
 
 ## Quickstart
